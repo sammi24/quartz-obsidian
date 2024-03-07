@@ -13,7 +13,7 @@ Since most modern kernels are multi-threaded, they can handle multiple operation
 
 ```plaintext
    ┌───────────────────────────┐
-┌─>│           timers          │
+┌─>│           timers          |
 │  └─────────────┬─────────────┘
 │  ┌─────────────┴─────────────┐
 │  │     pending callbacks     │
