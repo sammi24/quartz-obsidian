@@ -18,7 +18,7 @@ We train a simple MLP to map from position and direction to radiance. We also en
 
 It can be seen as interpolating between the input images to render new views
 
-![[thoughts/images/nerf-example.png]]
+![[content/thoughts/images/nerf-example.png]]
 
 To [[thoughts/rendering|render]] an image, we
 

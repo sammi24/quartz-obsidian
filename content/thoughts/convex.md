@@ -7,7 +7,7 @@ tags:
 
 A set is convex if line between two points in the set stays in the set.
 
-![[thoughts/images/convexity.png]]
+![[content/thoughts/images/convexity.png]]
 
 A function $f$ is convex if all the points above $f$ form a convex set. That is,
 

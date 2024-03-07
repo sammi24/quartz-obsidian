@@ -18,7 +18,7 @@ For example, light bulbs (the app) were invented before there was an electric gr
 
 Planes (the app) were invented before there were airports (the infrastructure). You don’t need airports to have planes. But to have the broad consumer adoption of planes, you do need airports, so the breakout app that is an airplane came first in 1903, and inspired a phase where people built airlines in 1919, airports in 1928 and air traffic control in 1930 only after there were planes.
 
-![[thoughts/images/app-infrastructure-phases.png]]
+![[content/thoughts/images/app-infrastructure-phases.png]]
 
 You can open the door to the next room, but you can’t really skip steps and open the back door from the front porch.  It is hard to successfully build infrastructure that is too far ahead of the apps market.
 

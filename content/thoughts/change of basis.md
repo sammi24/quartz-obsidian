@@ -28,7 +28,7 @@ Let $Z$ be the basis. With multi-dimensional polynomial bases, actually forming 
 
 Represent each column of $Z$ as a unique term. For example, with an $X$ of $d=2$, we can use $p=2$ to get
 
-![[thoughts/images/polynomial-basis.png]]
+![[content/thoughts/images/polynomial-basis.png]]
 
 We compute $u = (K + \lambda I)^{-1}y$
 

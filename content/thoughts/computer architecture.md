@@ -50,7 +50,7 @@ This is how each process can have its own isolated memory space — when the OS 
 
 Page tables are often hierarchical:
 
-![[thoughts/images/hierarchical-page-table.png]]
+![[content/thoughts/images/hierarchical-page-table.png]]
 
 If an instruction for example asks for an address that the MMU doesn't know about, it can fail the memory access with a page fault. Then, the page fault interrupt handler can then load the data into memory and let the MMU try again.
 

@@ -24,7 +24,7 @@ We find your utility for $x$ by measuring the risks that you are willing to take
 - We can compose lotteries (if $L_1$ and $L_2$ are lotteries, then so is $[pL_1, (1-p)L_2]$)
   - This creates compound lotteries
 
-![[thoughts/images/vNM.png]]
+![[content/thoughts/images/vNM.png]]
 
 Peterson argues that vNM is ok for descriptive [[thoughts/Decision theory|decision theory]] but not normative decision theory (vNM does not distinguish the meaning of utility from the measurement of utility)
 

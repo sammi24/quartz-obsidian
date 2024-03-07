@@ -38,7 +38,7 @@ When we get close enough to a local minima $w^*$, we enter a region of confusion
 
 Basically, for a fixed stepsize, SGD makes progress until the variance is too large.
 
-![[thoughts/images/sgd-loss.png]]
+![[content/thoughts/images/sgd-loss.png]]
 
 ### Decreasing Step Size
 

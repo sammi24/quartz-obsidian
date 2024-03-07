@@ -39,6 +39,6 @@ The Granger causality test is a statistical hypothesis test for determining whet
 
 A time series X is said to Granger-cause Y if it can be shown, usually through a series of t-tests and F-tests on lagged values of X (and with lagged values of Y also included), that those X values provide statistically significant information about future values of Y.
 
-![[thoughts/images/granger-causes.png]]
+![[content/thoughts/images/granger-causes.png]]
 
 Using the term "causality" alone is a misnomer, as Granger-causality is better described as "precedence", or, as Granger himself later claimed in 1977, "temporally related". Rather than testing whether X causes Y, the Granger causality tests whether X forecasts Y.

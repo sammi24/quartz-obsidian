@@ -35,7 +35,7 @@ For example, a node can be a part of 3 clusters, and L0, L1, and L2.
 
 Similar concept to isochrone maps
 
-![[thoughts/images/isochrone.png|500]]
+![[content/thoughts/images/isochrone.png|500]]
 
 ## Downsides
 

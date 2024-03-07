@@ -89,6 +89,6 @@ Milnor proposes a few axioms for rules under DUI:
 
 Perhaps we should use different rules for DUI in different situations. Can we be systematic?
 
-![[thoughts/images/dui-situtations.png|500]]
+![[content/thoughts/images/dui-situtations.png|500]]
 
 For decisions under partial ignorance, see: [[thoughts/Precautionary Principle|Precautionary Principle]]

@@ -127,7 +127,7 @@ This self-attention step is run in parallel (multi-headed self-attention). To co
 > 
 > What does 'it' in this sentence refer to? Is it referring to the street or to the animal? When the model is processing the word 'it', self-attention allows it to associate 'it' with 'animal'. As the model processes each word (each position in the input sequence), self attention allows it to look at other positions in the input sequence for clues that can help lead to a better encoding for this word.
 > 
-> ![[thoughts/images/transformers.png]]
+> ![[content/thoughts/images/transformers.png]]
 > 
 > We can also think of attention as communication in a directed graph of vectors: [source from 'Introduction to Transformers w/ Andrej Karpathy'](https://youtu.be/XfpMkf4rD6E?t=1406)
 
@@ -151,7 +151,7 @@ Each $[C_\text{embed}, 1]$ vector $x$ from the layer-normed attention residual t
 2. GELU element wise to produce $\tilde x$
 3. $W_\text{Proj} \tilde x + b_\text{Proj}$ to produce a $[C_\text{embed}, 1]$ column vector
 
-![[thoughts/images/gelu.png|500]]*GELU example*
+![[content/thoughts/images/gelu.png|500]]*GELU example*
 
 This is assembled into the MLP result of size $[C_\text{embed}, T]$. Like in the self-attention + projection section, we add the result of the MLP to its input, element-wise to produce the MLP residual.
 

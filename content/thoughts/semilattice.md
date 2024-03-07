@@ -29,6 +29,6 @@ See also: [[thoughts/Order theory]]
 
 See also: [[thoughts/A City is not a Tree]]
 
-![](thoughts/images/semilattice.png)_More diagrams in [Figma](<https://www.figma.com/file/eFPS114umxiV44LgL82UUb/Christopher-Alexander's-Semilattice-from-A-City-is-Not-a-Tree-(Community)?node-id=0%3A1>)_
+![](content/thoughts/images/semilattice.png)_More diagrams in [Figma](<https://www.figma.com/file/eFPS114umxiV44LgL82UUb/Christopher-Alexander's-Semilattice-from-A-City-is-Not-a-Tree-(Community)?node-id=0%3A1>)_
 
 ![[thoughts/images/semilattice example.png|300]]

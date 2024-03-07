@@ -27,7 +27,7 @@ Preserving the sanctity of natural interactions
 
 [Source: The Yak Online Governance Primer](https://mirhub.xyz/post/0x3b894393fbd9c879dc8d16d4d18277831bff9fa1/ajdo_so3gw34cltwbwnc2od3s0yt3us9c-c2nnpq_us/)
 
-![[thoughts/images/online-governance-regimes.png|500]]
+![[content/thoughts/images/online-governance-regimes.png|500]]
 
 See also: [[thoughts/games#Bartle Taxonomy of Player Types|Bartle Taxonomy of Player Types]]
 

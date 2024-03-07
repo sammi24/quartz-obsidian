@@ -12,7 +12,7 @@ See also: [[thoughts/design goals]]
 1. Abstraction Gradient (Efficiency)
    - Abstractions make it hard for first-time programmers to understand it
    - Abstractions are powerful for professional software developers to make easy to write, read, and maintain software
-   - There should be a **gradual** increase in complexity ![[thoughts/images/abstraction-gradient.png|500]]
+   - There should be a **gradual** increase in complexity ![[content/thoughts/images/abstraction-gradient.png|500]]
    - Languages with a high abstraction floor are called abstraction-hungry
    - Languages with a low abstraction ceiling are called abstraction-hating
 2. Consistency

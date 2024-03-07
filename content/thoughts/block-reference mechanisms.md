@@ -37,6 +37,6 @@ span: http://hyperland.com/xuCambDemo/WelcXu-D1y,start=592,length=37
 
 The basic notion is that you can reference parts of a document by including a snippet of the text you want to reference in the URL. A text fragment link will only break if the specific text fragment being referenced disappears from the document.
 
-![[thoughts/images/text-fragment-example.png]]
+![[content/thoughts/images/text-fragment-example.png]]
 
 See also: [[thoughts/Postel's Law]]

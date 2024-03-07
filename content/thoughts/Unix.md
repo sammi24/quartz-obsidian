@@ -21,7 +21,7 @@ Unix processes are ordered in a tree. Each process can spawn child processes, an
 
 This top-most process is the init process. It is started by the kernel when you boot your system. This init process is responsible for starting the rest of the system, such as starting the SSH daemon, starting the Docker daemon, starting Apache/Nginx, starting your GUI desktop environment, etc. Each of them may in turn spawn further child processes.
 
-![[thoughts/images/pid1.png|400]]
+![[content/thoughts/images/pid1.png|400]]
 
 If a process terminates, it turns into a "zombie process" which Unix still keeps some minimal set of information about (PID, termination status, resource usage information). In Unix, parent processes must explicitly 'wait' for child processes to terminate.
 

@@ -222,7 +222,7 @@ I think research logs tend to generally focus too much on what one did rather th
   - On developing taste
   - Agentic software and how current software makes it hard for people to make their own things
 
-![[thoughts/images/spencer-internet-provocation.png|400]]
+![[content/thoughts/images/spencer-internet-provocation.png|400]]
 
 ## January
 
@@ -243,9 +243,9 @@ I think research logs tend to generally focus too much on what one did rather th
   - Effective diff interfaces: "one of the most important factors here is being able to quickly understand the difference between versions." (Amelia Wattenberger)
     - Domain-specific merge flows: "How do you enable people to manage many copies and forks of the same document and recombine? Is this going to be the same for prose and digital gardening as it will be for coding? Could we use LLMs to describe differences semantically?" (Rob Haisfield)
 
-![[thoughts/images/beyond-cursors-gather-town.png]]
+![[content/thoughts/images/beyond-cursors-gather-town.png]]
 
-![[thoughts/images/beyond-cursors-screenshot.png]]
+![[content/thoughts/images/beyond-cursors-screenshot.png]]
 
 ### January 28th
 
@@ -721,7 +721,7 @@ I think research logs tend to generally focus too much on what one did rather th
 ### August 30th
 
 - [A Graph-Based Firebase](https://stopa.io/post/296)
-  - Turns out most modern real-time applications look something like this:![[thoughts/images/modern-app-architecture.png]]
+  - Turns out most modern real-time applications look something like this:![[content/thoughts/images/modern-app-architecture.png]]
   - SQL seems to be too complex. The common request for data in front end is a complex case to express to SQL. "We shouldn’t need advanced features for common cases."
     - The most common query is our “fetch nested relations”. This should be supported first class
   - We can potentially emulate this using triple stores built on top of an append-only CRDT. [[thoughts/Datalog|Datalog]] and triple stores have been around for decades. This also means that people have built reactive implementations.
@@ -896,7 +896,7 @@ I think research logs tend to generally focus too much on what one did rather th
     - Every paper I read opened 2-4 new ones. An unknown concept or definition meant another day or two to get familiar with the literature surrounding it. It wasn't until a month ago that the number of tabs I had open started to go down.
   - It feels like the attitude I'm taking towards research is one of bumping around in the dark. For the most part its enjoyable and exhilarating, finding things out for the first time.
     - There's a certain joy to putting yourself in an environment where you can discover things for yourself. I can ask for help when I need it, but most of the time I'm puttering along at my own pace.
-    - This is roughly what my self-satisfaction curve looks like for self-motivated exploration: ![[thoughts/images/self-exploration-satisfaction.jpeg|400]]
+    - This is roughly what my self-satisfaction curve looks like for self-motivated exploration: ![[content/thoughts/images/self-exploration-satisfaction.jpeg|400]]
     - This is usually fine, but when I look at it _instrumentally_, just from a perspective of how much I've actually got done, I'm a little disappointed in myself.
     - I've decided that I'm okay with it. I'm not trying to any% speedrun my work. I want to be able to enjoy research for what it is, to visit unexpected results and learn what I find intriguing about it.
 
@@ -1176,7 +1176,7 @@ I think research logs tend to generally focus too much on what one did rather th
   - So thank you for your trust, thank you for dreaming with me
   - Today's soundtrack is from [La La Land -- Audition (The Fools Who Dream)](https://open.spotify.com/track/6j0wBBAP3hMe4t1Ymj7GIe?si=ef50241abfe04ac2)
 
-![[thoughts/images/IMG_1805.png|???]]
+![[content/thoughts/images/IMG_1805.png|???]]
 
 ### July 5th
 
@@ -1186,7 +1186,7 @@ I think research logs tend to generally focus too much on what one did rather th
 
 - An 'aha' moment caught in 4k... watch me try to figure out why asynchronous and partially synchronous [[thoughts/system model|system models]] aren't the same thing (s/o Sebastien for being so kind and patient). This was super satisfying!
 
-![[thoughts/images/on-async-partially-sync-models.png]]
+![[content/thoughts/images/on-async-partially-sync-models.png]]
 
 ### July 1st
 
@@ -1486,7 +1486,7 @@ I think research logs tend to generally focus too much on what one did rather th
   - I think this summer will be mostly focused on the data replication / identity aspect of Rhizome, realizing that I think I was way too ambitious with my first proposal
 - More implementation on `miniraft`. Rust feels so slow to get back into a 'de-rusted state' (hah) where code just 'flows'. It feels fun though! Type system reminds me a lot of Haskell.
 
-![[thoughts/images/rhizome-may-6.jpeg]]
+![[content/thoughts/images/rhizome-may-6.jpeg]]
 
 ### May 5th
 
@@ -1530,7 +1530,7 @@ I think research logs tend to generally focus too much on what one did rather th
       - What about non-technical people?
     - How is a user created?
 
-![[thoughts/images/rhizome-may-3.jpeg]]
+![[content/thoughts/images/rhizome-may-3.jpeg]]
 
 ### May 2nd
 

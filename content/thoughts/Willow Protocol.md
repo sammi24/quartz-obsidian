@@ -30,7 +30,7 @@ For any given subspace, you can address payloads via paths (e.g. `blog/idea/1` a
 
 Entries live in separate subspace owned by different users (intuitively, each user writes to their own, separate universe of data. Willow allows for various ways of controlling who gets to write to which subspace)
 
-![[thoughts/images/willow-subspaces.png]]
+![[content/thoughts/images/willow-subspaces.png]]
 
 Interestingly, namespaces can also be aggregated into namespaces.
 

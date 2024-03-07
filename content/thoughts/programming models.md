@@ -11,7 +11,7 @@ tags:
 
 [Source](https://tomasp.net/techdims/)
 
-![[thoughts/images/tech-dims.png|500]]
+![[content/thoughts/images/tech-dims.png|500]]
 
 7 clusters
 

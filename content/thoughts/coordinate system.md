@@ -33,7 +33,7 @@ In order to make distant objects appear smaller and closer to the center of the 
 
 This effectively projects onto the 'near' plane
 
-![[thoughts/images/homogenous.png|300]]
+![[content/thoughts/images/homogenous.png|300]]
 
 ## Barycentric Coordinates
 

@@ -8,5 +8,5 @@ tags:
 
 a post
 
-![[thoughts/images/meeting-size.png|500]]
+![[content/posts/images/image20240307125223.png]]
 

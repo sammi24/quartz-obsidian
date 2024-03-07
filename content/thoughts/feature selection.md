@@ -79,4 +79,4 @@ Global vs. local features allow for “personalized” predictions.
 
 We add a feature for each 'person' in the system.
 
-![[thoughts/images/global-vs-local-features.png]]
+![[content/thoughts/images/global-vs-local-features.png]]

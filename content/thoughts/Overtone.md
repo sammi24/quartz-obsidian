@@ -15,7 +15,7 @@ If the fundamental frequency is $f$ then the overtones are $nf$ where $n \in \ma
 | $3f = 1320$Hz | $n = 3$ | 3rd overtone | 3rd harmonic |
 | $4f=1760$Hz | $n = 4$ | 4th overtone | 4th harmonic |
 
-![[thoughts/images/overtone.png|500]]
+![[content/thoughts/images/overtone.png|500]]
 
 ## Timbre
 Both instruments can sound equally tuned in relation to each other as they play the same note, and while playing at the same amplitude level each instrument will still sound distinctively with its own unique tone color.

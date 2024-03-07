@@ -7,7 +7,7 @@ tags:
 ## Letter to his father
 [Excerpts from Maria Popova in The Marginalian](https://www.themarginalian.org/2015/03/05/franz-kafka-letter-father/)
 
-![[thoughts/images/kafka-letter.png|500]]
+![[content/thoughts/images/kafka-letter.png|500]]
 
 The anguish resulting from a disparity of temperaments coupled with a disparity of power between parent and child is familiar to all who have lived through a similar childhood — the constantly enforced, with varying degrees of force, sense that the parent’s version of reality is always right simply by virtue of authority and the child’s always wrong by virtue of submission, and thus the child comes to internalize the **chronic guilt of wrongness**. ^9b526a
 

@@ -37,7 +37,7 @@ Reviewing the second edition by *Martin Kleppmann*. This is the first book I'm h
 - It felt like there were quite a few cases where terminology was used before it was defined, just a flag for some potential reordering of chapters/content.
 	- E.g. I feel like Chapter 1 should actually be much later, Chapter 2 seems more 'fundamental'
 	- If we drew a dependency graph of what each chapter depends on, this could help us sort out book order better (e.g. Types and Programming Languages)
-		- ![[thoughts/images/textbook-dependency-order.png]]
+		- ![[content/thoughts/images/textbook-dependency-order.png]]
 
 ## Chapter 1
 - I really like the clarity and writing style here already. It feels a lot more mature than the writing in the preface (though that's likely because the preface hasn't been updated)

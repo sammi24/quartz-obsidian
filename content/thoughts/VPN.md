@@ -14,7 +14,7 @@ Motivation:
 2. Workers want access to resources restricted to company internal network
 3. Users want to bypass regional blocks
 
-![](thoughts/images/VPN.jpeg)
+![](content/thoughts/images/VPN.jpeg)
 
 VPN Encapsulation
 

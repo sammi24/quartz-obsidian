@@ -22,7 +22,7 @@ He found that:
 2. The decentralized model, a "hierarchical structure of a set of stars connected in the form of a larger star", is also too centralized to be viable under attack
 3. The distributed model, where $k_{max} \approx k_{min}$, each node has roughly the same number of connections to each other and there are no hubs in the network
 
-![[thoughts/images/decentralization.png]]
+![[content/thoughts/images/decentralization.png]]
 _Baran, 1964 “[On Distributed Communications (Memorandum RM-3420-PR)](https://www.rand.org/pubs/research_memoranda/RM3420.html)“_
 
 Baran’s ideas were ignored by the military. The internet thus relied on distributed protocols that allowed each node to decide where to link, creating preferential attachment. This gave rise to a scale-free model of the [[thoughts/Internet|Internet]] rather than the original mesh-like topology that Baran imagined.

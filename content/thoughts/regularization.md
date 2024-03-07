@@ -17,7 +17,7 @@ We should regularize $w_j$ so that they don't explode.
 
 Makes the tangent to the level curves of the gradient point towards the global minimum
 
-![[thoughts/images/l1-vs-l2-regularization.png]]
+![[content/thoughts/images/l1-vs-l2-regularization.png]]
 
 ### L0-Regularization
 

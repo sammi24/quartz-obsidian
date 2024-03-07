@@ -16,7 +16,7 @@ Many domains require non-linear transforms of the features (see: [[thoughts/chan
 
 Let $k$ be the number of hidden units. Generally, $\hat y_i = v^Th(Wx_i)$ (or, with bias, $\hat y_i = \sum_{c=1}^k v_ch(w_c^Tx_i + \beta_c) + \beta$)
 
-![[thoughts/images/single-layer-ann-diagram.jpg|500]]
+![[content/thoughts/images/single-layer-ann-diagram.jpg|500]]
 
 Artificial neural network:
 

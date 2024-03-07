@@ -17,7 +17,7 @@ Suppose we have a dataset $D$ with parameters $w$. For example,
 
 The likelihood as a probability mass function $P(D|w)$. MLE is choosing a $\hat w$ that maximizes the likelihood ($\hat w \in \arg \max_w \{ P(D|w) \}$)
 
-![[thoughts/images/mle-example.png]]
+![[content/thoughts/images/mle-example.png]]
 
 In the case above, $\hat w$ is $\frac 2 3$
 

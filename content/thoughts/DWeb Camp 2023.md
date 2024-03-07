@@ -7,7 +7,7 @@ aliases:
   - ../posts/DWeb-Camp-2023
 ---
 
-![[thoughts/images/dweb-collage.png]]
+![[content/thoughts/images/dweb-collage.png]]
 
 > Fire is a chief metaphor for the Internet: it is metaorganic; it extends the range of (informational) food; it empowers people to explore new time zones (the night) and territories of knowledge; it increases some kinds of sociability, demands ongoing maintenance, and produces dangers and externalities that did not exist before. Fire was the first World Wide Web, a fragile system for contagious spreads.
 >
@@ -41,13 +41,13 @@ To me, this is what makes DWeb so special. So rarely do you find a space where y
 
 And, perhaps most importantly, they know how to do it all while being kind, empathetic, and quirky in the way that you know they've spent too long growing up on internet to not care about the future of it.
 
-![[thoughts/images/dweb-call-for-freelancers.png|400]]
+![[content/thoughts/images/dweb-call-for-freelancers.png|400]]
 
 ---
 
 This year at DWeb Camp, [Spencer Chang](https://spencerchang.me) and I hosted a session asking campers to gather their collective imaginations and dreams for what a communally-owned internet could look like.
 
-![[thoughts/images/dweb2023-workshop.png|400]]
+![[content/thoughts/images/dweb2023-workshop.png|400]]
 
 We have a lot of dystopian fiction and a lot of reminiscing, but not a lot of forward-looking dreams for the web. Dreaming is an important piece of fiction that rallies people to articulate a vision they want to make a reality. In hosting this session, we recall Ruha Benjamin: "to see things as they really are, you must imagine them for what they might be".
 
@@ -59,7 +59,7 @@ Our session focused around circulating 5 sheets of paper, each with a question o
 - Where have you felt agency online?
 - What is/was your favourite place on the internet?
 
-![[thoughts/images/our-internet-dreams.png]]
+![[content/thoughts/images/our-internet-dreams.png]]
 
 We started by reminising: remembering sacred spaces like Club Penguin, obscure math mailing lists, torrent communities, and hobby forums. We discussed the feeling that existing on the internet feels like living on rented ground. We recalled architects and urban designers like Christopher Alexander who first noticed that rental areas are always the first to turn to slums and the importance of owning your own home[^3], drawing parallels to our digital spaces.
 

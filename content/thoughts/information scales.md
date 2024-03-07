@@ -20,7 +20,7 @@ _[Engelbart on HyperScope](https://dougengelbart.org/content/view/154/86/)_
 
 _Hyperscope is a browsing tool that enables most of the viewing and navigating features called for in Doug Engelbart's open hyperdocument system framework ([OHS](https://www.dougengelbart.org/about/ohs.html)) to support dynamic knowledge repositories_
 
-![[thoughts/images/hyperscope.png|300]]
+![[content/thoughts/images/hyperscope.png|300]]
 
 ## Semantic Zoom
 [Source](https://alexanderobenauer.com/labnotes/038/)

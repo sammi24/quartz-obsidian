@@ -30,7 +30,7 @@ Both network and [transport layer](thoughts/Transport%20Layer.md) (violation of 
       3. Entries are removed when a conversation is coming to a close (stream based protocol, detect termination packets)
 5. Does the inverse when it receives a packet
 
-![](thoughts/images/NAT.jpeg)
+![](content/thoughts/images/NAT.jpeg)
 
 ## Hole-punching and NAT Traversal
 
@@ -77,9 +77,9 @@ From [_UDP NAT and Firewall Puncturing in the Wild_ by Gertjan Halkes and Johan 
       - If the direct connection request from A to B arrives first, there is no filtering behaviour or it uses EIF
       - If the rendez-vouz connection request from R to B arrives first, the filtering behaviour is most likely A(P)DF
 
-![[thoughts/images/NAT-firewall-share.png]]
+![[content/thoughts/images/NAT-firewall-share.png]]
 
-![[thoughts/images/NAT-firewall-connection-rates.png]]
+![[content/thoughts/images/NAT-firewall-connection-rates.png]]
 
 Possible explanations for a non-100% connection rate even in EIM-EIF to EIM-EIF peers
 

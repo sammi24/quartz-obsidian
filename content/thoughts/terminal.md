@@ -22,7 +22,7 @@ In these emulators, the wires of the traditional TTY are replaced with pairs of 
 - It also creates a 'follower' PTY which is used by the shell and other processes in the session
 - The terminal emulator then spawns the shell which reads and writes from the follower PTY (the shell's `stdin`, `stderr`, and `stdout`) is set to the follower PTY
 
-![[thoughts/images/tty-example.png]]
+![[content/thoughts/images/tty-example.png]]
 
 Note, there only exists a difference between the leader and follower PTYs for the purpose of _line-discipline_, which is a sort of intermediate buffer.
 

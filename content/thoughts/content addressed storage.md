@@ -31,6 +31,6 @@ In Ted Nelson's 1981 Literary Machines, he imagined a universally addressed publ
 
 The system promotes the coexistence and resolution of many viewpoints, through the sharing of private documents and comments, and the publication of [[thoughts/hypertext]] complexes whose interrelationships remain orderly.
 
-![[thoughts/images/literary-machines.png|500]]
+![[content/thoughts/images/literary-machines.png|500]]
 
 See also: [[thoughts/plurality]]

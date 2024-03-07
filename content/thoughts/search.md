@@ -105,7 +105,7 @@ See: [[thoughts/Prolly Trees]]
 
 [Source: Critical Atlas of the Internet](https://louisedrulhe.fr/internet-atlas/)
 
-![[thoughts/images/internet-atlas.png|600]]
+![[content/thoughts/images/internet-atlas.png|600]]
 
 ![[thoughts/images/search engine space.png|400]]
 

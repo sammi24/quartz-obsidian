@@ -36,7 +36,7 @@ In Einstein's theory of general and special relativity
 
 Causality means that an effect can not occur from a cause that is not in the back (past) light cone of that event. Similarly, a cause can not have an effect outside its front (future) light cone.
 
-![[thoughts/images/lightcone.png]]
+![[content/thoughts/images/lightcone.png]]
 
 This causes us to be trapped in _causal islands_. Because data can only travel at the speed of light, we can't keep up with each other all the time.
 

@@ -49,7 +49,7 @@ The algorithm works as follows
 3. The client waits for $f + 1$ replies from different replicas with the same result; this is the end result
    1. If the client doesn't receive replies in a timely manner, it broadcasts the request to all replicas. If the request has already been processed, the replicas simply re-send the reply (as replicas cache the last reply sent to each client)
 
-![[thoughts/images/3pc-pbft.png]]_Replica 0 is the primary, replica 3 is faulty, and C is the client_
+![[content/thoughts/images/3pc-pbft.png]]_Replica 0 is the primary, replica 3 is faulty, and C is the client_
 
 ## Garbage Collection
 

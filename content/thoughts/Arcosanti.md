@@ -11,4 +11,4 @@ It was designed and established by Paolo Soleri, around same time as the [[thoug
 
 Soleri strongly believed in the concept of arcology: the mixture of architecture and local ecologies. He strongly believed that dispersal was antagonistic to life and that density is the only [[thoughts/morphology|morphology]] that can give us a lively existence.
 
-![[thoughts/images/arcosanti.png]]
+![[content/thoughts/images/arcosanti.png]]

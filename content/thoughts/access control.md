@@ -46,7 +46,7 @@ From _[Capability Myths Demolished](https://srl.cs.jhu.edu/pubs/SRL2003-02.pdf)_
 3. Irrevocability Myth: capability-based access cannot be revoked
    - It is true that capabilities themselves are not literally revocable.
    - Further, we know that the capability alone is sufficient to establish access to the resource.
-   - However, we can create a pair of forwarders, F and R to get around this. Of this pair, we may call F the forwarding facet, and R the revoking facet. Any messages sent to F get forwarded through R to Carol, so Bob may use F as if it were Carol. This works as long as inter-object interactions are mediated by messages, and messages are handled generically, so that a reusable mechanism can forward any message. ![[thoughts/images/capabilityrevokation.png]]
+   - However, we can create a pair of forwarders, F and R to get around this. Of this pair, we may call F the forwarding facet, and R the revoking facet. Any messages sent to F get forwarded through R to Carol, so Bob may use F as if it were Carol. This works as long as inter-object interactions are mediated by messages, and messages are handled generically, so that a reusable mechanism can forward any message. ![[content/thoughts/images/capabilityrevokation.png]]
    - When Alice wants to revoke Bob’s access to Carol, she invokes R, telling it to stop forwarding. R then drops its pointer to Carol, and F becomes useless to Bob.
 
 Ambient Authority:

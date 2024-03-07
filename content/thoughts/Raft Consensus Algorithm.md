@@ -55,7 +55,7 @@ A server can only be in one of 3 states:
 3. Candidate: used to elect a new leader
 
 State transitions follow the state diagram below:
-![[thoughts/images/raft-state-diagram.png]]
+![[content/thoughts/images/raft-state-diagram.png]]
 
 All Raft servers communicate using remote procedure calls (RPCs) that happen over the network. The basis consensus algorithm only requires 2 types of RPCs, RequestVote and Append-Entries. These are retried if a request times out and are issued in parallel for best performance.
 
@@ -65,7 +65,7 @@ Leaders are active for _terms_ of arbitrary length (this is randomly determined 
 
 Each term begins with an election in which one or more candidates attempt to become leader. If a candidate wins the election, then it serves as leader for the rest of the term.
 
-![[thoughts/images/raft-elections.png]]
+![[content/thoughts/images/raft-elections.png]]
 
 ### Initiate State
 

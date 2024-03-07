@@ -28,6 +28,6 @@ Both of these costs are not necessarily monetary – they can also be psychologi
 
 Once a platform reaches a certain level of dominance, it becomes a new _default_ and moves down a [[thoughts/pace layers|layer]] of the stack:
 
-![[thoughts/images/network-effect-stack.png]]
+![[content/thoughts/images/network-effect-stack.png]]
 
-![[thoughts/images/google-stack.png]]
+![[content/thoughts/images/google-stack.png]]

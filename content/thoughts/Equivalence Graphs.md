@@ -19,6 +19,6 @@ Instead of destructive rewrites over the tree of nodes, we can _grow the e-graph
 
 Originally, the e-class containing `*` just has one item which points to `a` and `2`. We extend the e-class by adding `<<` which points to `a` and `1`, semantically saying that `a * 2` is equivalent to `a << 1`. Note the [[thoughts/Hash consing|Hash consing]] on the nodes to prevent duplication.
 
-![[thoughts/images/e-graph.png]]
+![[content/thoughts/images/e-graph.png]]
 
 Finally, we can pick one 'best' e-node in each e-class. This is called 'extracting' the optimized term.

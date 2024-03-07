@@ -40,7 +40,7 @@ ATP distinguishes between "small-world" vs "big-world" networking. Small-world n
 - **Small-world**: delivery of events targeted at specific users such as mentions, replies, and DMs, and sync of datasets according to follow graphs.
 - **Big-world**: large-scale metrics (likes, reposts, followers), content discovery (algorithms), and [[thoughts/search]]
 
-![[thoughts/images/atproto-networking.png]]
+![[content/thoughts/images/atproto-networking.png]]
 
 ### Moderation
 

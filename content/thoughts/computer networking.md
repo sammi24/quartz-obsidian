@@ -107,7 +107,7 @@ One common method is through the use of signalling servers. These servers just f
 
 Unfortunately, this method still relies on a server to handle special responsibilities. One completely decentralized way of doing this is doing something called a distributed hash table -- a [[thoughts/DHT|DHT]]. Each node holds a small shard of the DHT, so the burden of participation isn’t painful for any one agent. The DHT stores multiple redundant copies of each entry so that the information is available even when the author is offline. Peers can then store info about each other in this DHT to figure out what each other's IP addresses are.
 
-![[thoughts/images/DHT.png]]
+![[content/thoughts/images/DHT.png]]
 
 Ok perfect, now we can start sending messages across to our peers. We can send arbitrary data payloads _but_ we can only send it to one person at a time. If we want to talk to a group of people, we need to start conversations with all of them! In this case, the underlying medium is not perfect and we can't ensure that messages will always arrive in the right order.
 

@@ -37,7 +37,7 @@ Pattern languages are [[thoughts/composable|composable]], structured without bei
 - "Paul Goodman has proposed a rule of thumb, based on cities like Athens in their prime, that no citizen be more than two friends away from the highest member of the local unit. Assume that everyone knows about 12 people in his local community. Using this notion and Goodman's rule, we can see that an optimum size for a political community would be about $12^3$ or 1728 households of 5500 persons." (p.72, Community of 7000)
 - Regression to the mean in large communities
   - Margaret Mead: "There is a tendency to reduce all values to simple scales of dollars, school grades, or some other simple [[thoughts/quantization|quantifiable]] measure, whereby the extreme incommensurables of many different sets of cultural values can be easily, though superficially, reconciled" (p.47, Mosaic of Subcultures)
-- Bernard Bass has conducted an experiment relating group size to participation (p.713, Small Meeting Rooms): ![[thoughts/images/meeting-size.png|500]]
+- Bernard Bass has conducted an experiment relating group size to participation (p.713, Small Meeting Rooms): ![[content/thoughts/images/meeting-size.png|500]]
 
 ### Making a place feel like home
 
@@ -59,7 +59,7 @@ Pattern languages are [[thoughts/composable|composable]], structured without bei
 
 ### Transit
 
-![[thoughts/images/nuisance-transit-distance.png|500]]
+![[content/thoughts/images/nuisance-transit-distance.png|500]]
 
 - "The graph is based on 127 observations in the Berkeley City Hall. People were asked to define all the trips they had to make regularly during the work week, to state their frequency, and then to state whether they considered the trip to be a nuisance." (p.409, Office connections)
 

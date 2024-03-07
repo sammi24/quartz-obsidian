@@ -8,7 +8,7 @@ tags:
 
 > Companies of the future should derive value from the intelligence they provide on top of existing data rather than have the value be just the data.
 
-![[thoughts/images/Rhizome.png]]_How can we imagine more rhizomatic structures instead of arborescent systems?_
+![[content/thoughts/images/Rhizome.png]]_How can we imagine more rhizomatic structures instead of arborescent systems?_
 
 _DISCLAIMER: To borrow words from [Robin Sloan](https://www.robinsloan.com/lab/specifying-spring-83/): While it is okay to share this link, I want to underscore that I am sending it specifically to you with the hope that you will really think about it! At such a primordial stage, a proposal like this doesn’t need diffuse, drive-by attention. It needs, instead, close consideration and generous imagination._
 
@@ -62,7 +62,7 @@ Rhizome's properties handily solve or avert the three problems listed above:
 2. Users no longer need to run their own server infrastructure as compute happens natively on a users device rather than on some remote sever. When a user needs more compute, they can utilize a cloud peer which is like renting compute from a neutral provider.
 3. As all apps have a public schema which describe what types of tuple attributes they use (e.g. `friend` and `chat-message` attributes for a social media application). To interoperate with outside apps, anyone can publish a schema file for the output of a data export of API call for example.
 
-![[thoughts/images/rhizome-dec-6.jpg]]
+![[content/thoughts/images/rhizome-dec-6.jpg]]
 _Rough architecture diagram as of Dec 1st_
 
 ### Differentiation from existing work

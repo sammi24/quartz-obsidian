@@ -60,7 +60,7 @@ See also: [[thoughts/A Certain Tendency Of The Database Community]], [[thoughts/
 - On capturing time: "Time is slipping through your fingers and you want to grab onto that. What could be more human than that?"
 - "Like me, they have aged"
 
-![[thoughts/images/chronology.png|500]]
+![[content/thoughts/images/chronology.png|500]]
 
 ## Fools and their time metaphors
 
