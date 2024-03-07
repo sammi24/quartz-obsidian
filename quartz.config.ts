@@ -3,14 +3,14 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "jzhao.xyz",
+    pageTitle: "sammi ghazzawi",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "jzhao.xyz",
+    baseUrl: "sammig7.xyz",
     ignorePatterns: ["private", "templates"],
     defaultDateType: "created",
     theme: {
@@ -28,17 +28,17 @@ const config: QuartzConfig = {
           darkgray: "#2A354B",
           dark: "#08142C",
           secondary: "#274B75",
-          tertiary: "#84a59d",
+          tertiary: "#987284",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#101520",
+          light: "#07090D",
           lightgray: "#1D232D",
           gray: "#2A354B",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7188A9",
-          tertiary: "#84a59d",
+          secondary: "#D6DCFF",
+          tertiary: "#987284",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
       },
