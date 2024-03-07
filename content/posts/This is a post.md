@@ -8,7 +8,5 @@ tags:
 
 a post
 
-
-![[Pasted image 20240307125848.png]]
-
+![[Pasted image 20240307125223.png]]
 
