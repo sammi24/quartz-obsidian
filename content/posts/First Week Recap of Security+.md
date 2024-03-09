@@ -12,18 +12,18 @@ The motivation stemmed from coming across Symone B. Beez's videos on YouTube, wh
 The first unit of Security+ covered a good portion of the cybersecurity fundamentals, here are some gems:
 
 👾 The common malware:
-	- trojan horses: disguised as a useful application and once opened can be dangerous
-	- worms: able to reproduce themselves without the user having to open a program
-	- viruses: emitted when a user opens a suspicious program
+-  trojan horses: disguised as a useful application and once opened can be dangerous
+-  worms: able to reproduce themselves without the user having to open a program
+-  viruses: emitted when a user opens a suspicious program
 
 👾 Social engineering attacks can occur in many ways:
-	- Authority: attacker takes an advantage of en employee by leveraging false authority
-	- Intimidation: attacker guilts an employee into performing an action
-	- Consensus: social proof/follow the herd
-	- Scarcity/Urgency: an attacker urges a victim to act in a quick manner or time will run out
-	- Familiarity/Trust: an attacker uses information to build trust with an employee or the attacker acts like they apart of the IT team
+- Authority: attacker takes an advantage of en employee by leveraging false authority
+- Intimidation: attacker guilts an employee into performing an action
+- Consensus: social proof/follow the herd
+- Scarcity/Urgency: an attacker urges a victim to act in a quick manner or time will run out
+- Familiarity/Trust: an attacker uses information to build trust with an employee or the attacker acts like they apart of the IT team
 
 👾 Client/Server type attackes:
-	- Buffer overflows: attacker overloads forms on a website in order to retrieve critical data
-	- Cross-side scripting: attackers can leverage a scripting language like Javascript if inputs in a website are vulnerable to scripting
-	- Replay Attacks/Request Forgeries: strategies an attacker can use to intercept connections happening between a victim and the server. Attacker can replay a connection that a victim had with a server, or intercept credentials of a victim to perform request forgery to a server. Both of these attacks can be suppressed with TLS and HTTPS.
+- Buffer overflows: attacker overloads forms on a website in order to retrieve critical data
+- Cross-side scripting: attackers can leverage a scripting language like Javascript if inputs in a website are vulnerable to scripting
+- Replay Attacks/Request Forgeries: strategies an attacker can use to intercept connections happening between a victim and the server. Attacker can replay a connection that a victim had with a server, or intercept credentials of a victim to perform request forgery to a server. Both of these attacks can be suppressed with TLS and HTTPS.
