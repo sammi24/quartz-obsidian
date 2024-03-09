@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Operating System 0-1
 date: "{{date}}"
 tags:
   - seed
